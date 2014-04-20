@@ -1498,7 +1498,7 @@ footer .comment-content p {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   #vn_grill_oo {
     display: none;
   }
