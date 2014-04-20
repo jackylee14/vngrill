@@ -1498,16 +1498,6 @@ footer .comment-content p {
   }
 }
 
-@media (max-width: 480px) {
-  #vn_grill_oo {
-    display: none;
-  }
-
-  header {
-    margin-top: -50px;
-  }
-}
-
 #orderahead {
   background:#72b036 repeat-x center;
   padding:0.4em 1em;
