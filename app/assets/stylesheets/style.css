@@ -1500,7 +1500,6 @@ footer .comment-content p {
 
 @media (max-width: 480px) {
   #vn_grill_oo {
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
+    width: 320px !important;
   }
 }
