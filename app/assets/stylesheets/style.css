@@ -1501,5 +1501,6 @@ footer .comment-content p {
 @media (max-width: 480px) {
   #vn_grill_oo {
     display: none;
+    width: 100%;
   }
 }
